@@ -3030,7 +3030,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@orca-so/whirlpools-monorepo@workspace:."
   dependencies:
-    "@types/bn.js": "npm:~5.1.6"
     "@types/mocha": "npm:^10.0.9"
     "@types/node": "npm:^22.7.7"
     "@types/sinon": "npm:^17.0.3"
@@ -4281,15 +4280,6 @@ __metadata:
   dependencies:
     "@types/estree": "npm:*"
   checksum: 10c0/5a65a1d7e91fc95703f0a717897be60fa7ccd34b17f5462056274a246e6690259fe0a1baabc86fd3260354f87245cb3dc483346d7faad2b78fc199763978ede9
-  languageName: node
-  linkType: hard
-
-"@types/bn.js@npm:~5.1.6":
-  version: 5.1.6
-  resolution: "@types/bn.js@npm:5.1.6"
-  dependencies:
-    "@types/node": "npm:*"
-  checksum: 10c0/073d383d87afea513a8183ce34af7bc0a7a798d057c7ae651982b7f30dd7d93f33247323bca3ba39f1f6af146b564aff547b15467bdf9fc922796c17e8426bf6
   languageName: node
   linkType: hard
 
@@ -5700,9 +5690,9 @@ __metadata:
   linkType: hard
 
 "bn.js@npm:^5.1.2, bn.js@npm:^5.2.0, bn.js@npm:^5.2.1":
-  version: 5.2.1
-  resolution: "bn.js@npm:5.2.1"
-  checksum: 10c0/bed3d8bd34ec89dbcf9f20f88bd7d4a49c160fda3b561c7bb227501f974d3e435a48fb9b61bc3de304acab9215a3bda0803f7017ffb4d0016a0c3a740a283caa
+  version: 5.2.3
+  resolution: "bn.js@npm:5.2.3"
+  checksum: 10c0/eef19cb9cf5e91e91e3e0f036b799ce6c72f79463c3934d62991c3dcdb58f6c94dc3d806495d9b0bf31cd121870ed79bb2115cea71b56c03e794fb71485031fa
   languageName: node
   linkType: hard
 
